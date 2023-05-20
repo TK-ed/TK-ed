@@ -11,7 +11,7 @@
 
 # 💫 About Me:
 - 🙋‍♂️ Tharun here!<br> 
-- Currently learnin' Solidity and ReactJS.<br>
+- Currently learnin' Next.js and React.js.<br>
 - ⚡ Surpass your limits. Right here. Right now.<br>
 - 💬 Ask me about anything. I'm happy to help.<br>
 - ☕ If you like what I do consider buying me a coffee👉👈
