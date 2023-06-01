@@ -34,8 +34,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-![](https://raw.githubusercontent.com/TK-ed/TK-ed/master/dino.gif)
-
 ### If you like what i do, gimme a follow 😄
 
   ## 💰 You can help me by Donating
