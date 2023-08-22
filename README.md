@@ -1,17 +1,11 @@
 # Profile
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/Powered-by-coffee.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)](https://forthebadge.com) &nbsp;
-
-<br><br>
-
 [![GITHUB FOLLOWERS](https://img.shields.io/github/followers/TK-ed?style=social)](https://github.com/TK-ed")&nbsp; &nbsp;
 [![](https://visitcount.itsvg.in/api?id=TK-ed&icon=2&color=9)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 - 🙋‍♂️ Tharun here!<br> 
-- Currently learnin' Next.js and React.js.<br>
+- Currently learnin' Linux and FastAPI.<br>
 - ⚡ Surpass your limits. Right here. Right now.<br>
 - 💬 Ask me about anything. I'm happy to help.<br>
 - ☕ If you like what I do consider buying me a coffee👉👈
