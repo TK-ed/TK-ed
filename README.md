@@ -6,6 +6,7 @@
 # 💫 About Me:
 - 🙋‍♂️ Tharun here!<br> 
 - Currently learnin' Linux and FastAPI.<br>
+- Opensource contributor on discord.
 - ⚡ Surpass your limits. Right here. Right now.<br>
 - 💬 Ask me about anything. I'm happy to help.<br>
 - ☕ If you like what I do consider buying me a coffee👉👈
