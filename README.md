@@ -9,7 +9,8 @@
 ║ Surpass your limits. Right here. Right now.                ║ ┣━━ 🎮 Gamer    
 ╚════════════════════════════════════════════════════════════╝ ┣━━ 🤝 Open-source Contributor    
 ```
-[![](https://visitcount.itsvg.in/api?id=TK-ed&icon=2&color=12)](https://visitcount.itsvg.in)
+
+![Visit Count](https://visitcount.itsvg.in/api?id=TK-ed&icon=2&color=12)
 
 <div align="center">
   <a href="https://dev.to/tk-ed" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/dev.to-black?style=for-the-badge&logo=devdotto&logoColor=white"></a>
