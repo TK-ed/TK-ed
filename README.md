@@ -2,8 +2,8 @@
 ╔════════════════════════ Hey There! ════════════════════════╗ 🏴‍☠️ Tharun Kumar
 ║ I'm a cheery youngster pursuing bachelor's degree in CSE.  ║ ┣━━ 💻 Front-end
 ║ My interests include Web Development, AI/ML, LLMs,         ║ ┃   ┣━━ ⭐ React.js
-║ Gaming, Blockchain, Cryptos, Web3, Music and basically     ║ ┃   ┣━━ ⭐ Next.js
-║ pretty much everything else as well xD.                    ║ ┣━━ ⚙️ Back-end 
+║ Gaming, Blockchain, Beautiful UIs, Web3, Music and         ║ ┃   ┣━━ ⭐ Next.js
+║ basically pretty much everything else as well xD.          ║ ┣━━ ⚙️ Back-end 
 ║ I really enjoy working with Linux and Python.              ║     ┣━━ ⭐ FastAPI
 ║ Ask me about anything. I'm happy to lend a hand.           ║     ┣━━ ⭐ Node.js/Express.js    
 ║ Surpass your limits. Right here. Right now.                ║ ┣━━ 🎮 Gamer    
