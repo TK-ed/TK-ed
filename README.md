@@ -10,7 +10,10 @@
 ╚════════════════════════════════════════════════════════════╝ ┣━━ 🤝 Open-source Contributor    
 ```
 
-![Visit Count](https://visitcount.itsvg.in/api?id=TK-ed&icon=2&color=12)
+<a href="" ><img src="https://visitcount.itsvg.in/api?id=TK-ed&icon=2&color=12" alt="profile_views"></a>
+<div align="center">
+  <a href="" ><img src="https://github.com/TK-ed/TK-ed/assets/109659829/760dac6f-5a24-462e-9eb5-68d931344fb5" alt=""gh_contributions></a>
+</div>
 
 <div align="center">
   <a href="https://dev.to/tk-ed" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/dev.to-black?style=for-the-badge&logo=devdotto&logoColor=white"></a>
@@ -80,6 +83,5 @@
 
 ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tked) 
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
